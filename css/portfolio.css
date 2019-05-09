@@ -1,0 +1,9 @@
+.portfolio li {
+    display: inline-block;
+    width:  45%;
+    background-color: #FAFFFC;
+    border: solid 8px black;
+    padding: 16px;
+    margin: 16px;
+    box-sizing: border-box;
+}
