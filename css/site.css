@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    flex-wrap: wrap;
     font-family: "Crimson Text", "Times New Roman", serif;
     background-color: #F2FFFC;
     font-size: 120%;

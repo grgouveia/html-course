@@ -1,3 +1,7 @@
+body {
+    display: block;
+}
+
 .foto-home {
     height: 200px;
     border-radius: 50%;
@@ -76,11 +80,11 @@
     color: #FFF;
 }
 .trabalhos ul {
-    overflow: hidden;
+    display: flex;
     border: .5em solid black;
 }
 .trabalhos li {
-    float: left;
+    flex: 1;
     width: 33.333%;
 }
 .trabalhos img {
